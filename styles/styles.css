@@ -1,0 +1,9 @@
+/*Use Pico CSS as the baseline*/
+@import "pico.min.css";
+
+/* Own Styles below */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
